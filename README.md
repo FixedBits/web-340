@@ -1,2 +1,6 @@
-# web-340
-Repository for "Web-340-Node.js"
+# WEB 340 Node.js.
+
+## Contributors
+
++ Professor Krasso
++ Victor Soto
