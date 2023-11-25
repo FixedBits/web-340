@@ -1,0 +1,3 @@
+[submodule "pets-r-us"]
+	path = pets-r-us
+	url = https://github.com/FixedBits/pets-r-us.git
